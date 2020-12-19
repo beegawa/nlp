@@ -4,8 +4,11 @@
  
 # 파일구성  
  
-네이버한국어모델학습및저장.JPYNB
-프렌즈영문.JPYNB
+ 
+네이버한국어모델  naver_nlp.JPYNB
+프렌즈영문       friends_nlp_bert.JPYNB
+
+
 
 # 모델
 NSMC    - bert-large-cased 
